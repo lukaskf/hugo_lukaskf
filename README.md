@@ -1,2 +1,1 @@
-# hugo_lukaskf
-My Site 
+myblog
