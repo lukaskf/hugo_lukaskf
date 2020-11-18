@@ -1,1 +1,1 @@
-This is my perosnal website built with Hugo and deployed on Netlify!
+This is my personal website (lukaskf.com) built with Hugo and deployed on Netlify!
