@@ -56,8 +56,3 @@ disqusShortname = "bento-hugo-theme"
       name = "About"
       url = "/about"
       weight = 1
-
-#[[menu.main]]
-      #name = "Archives"
-      #url = "/archives"
-     # weight = 1
