@@ -1,0 +1,160 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lukas K-F</title>
+    <link>https://www.lukaskf.com/</link>
+    <description>Recent content on Lukas K-F</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MIT</copyright>
+    
+        <atom:link href="https://www.lukaskf.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Archives</title>
+      <link>https://www.lukaskf.com/archives/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lukaskf.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://www.lukaskf.com/about/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lukaskf.com/about/</guid>
+      <description>&lt;h1 id=&#34;lukas-kelsey-friedemann&#34;&gt;Lukas Kelsey-Friedemann&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;lukaskf@gmail.com&#34;&gt;Email&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/lukaskf&#34;&gt;Github&lt;/a&gt; |
+&lt;a href=&#34;https://www.linkedin.com/in/lukas-kelsey-friedemann-1621a1171&#34;&gt;Linkedin&lt;/a&gt; |
+Minneapolis, Minnesota&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Sep 2016 - May 2020&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;University of Minnesota - Twin Cities&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;B.S. Computer Science (GPA: 3.55)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;employment&#34;&gt;Employment&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;June 2020 - Present&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Python Automation Engineer - Wells Fargo, MN&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Working in an Agile environment remotely to build a platform for automating configuration management and delivery of software via Python, Puppet, Bolt, Ruby. Building reporting and metrics tools for the platform via Python, Pandas using the Flask web-framework. Providing support for previous platform usage as well as building documentation and reporting tools. Additionally, changing software development policy and practices amongst the team, pushing for better DevOps practices. Optimizing development environment for team members to ensure efficient, safe, and reliable software development via ephemeral virtual machines and software provisioning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;January 2020 - Present&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Full-Stack Software Engineer - Freelance, Remote&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Executing full-stack web app development utilizing Flask framework for Python. Front-end built to design specifications by UX designer. Implementing secure software design and best security practices, while producing an efficient, lean, modern web-app while providing excellent user experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;dt&gt;June 2019 - August 2019&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Software Development Intern - U.S. Bank, MN&lt;/strong&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;ul&gt;
+&lt;li&gt;Contributed in developing large-scale Java/Angular web-application in an agile team. Back-end design and development: created a validation system for application POJOS, using Spring(Framework), API’s for core bank services, unit testing. Front-end development: created dynamic web-pages to meet standards set by corporate graphic designers and business requirements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;dl&gt;
+&lt;dt&gt;December 2019 - June 2020&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Business Analyst / Operations - Jaxon Grey, MN&lt;/strong&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;ul&gt;
+&lt;li&gt;Utilizing business experience and knowledge to guide the business strategy and operations at a clothing boutique. Key actions involve running business analytics to guide budgeting, inventory, and purchase orders, as well as providing technological solutions to a variety of business problems that arise in the workplace and working with a point of sale software.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;dl&gt;
+&lt;dt&gt;June 2015 - December 2016&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Mechanic Apprentice / Sale Representative - K&amp;rsquo;UL Chocolate, MN&lt;/strong&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;ul&gt;
+&lt;li&gt;Assisted in the assembling, adjusting, and designing machinery in a large scale food production environment, aimed towards high automation and large-scale output of artisan chocolate. Executed and maintained sales operations in a store-front.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;dl&gt;
+&lt;dt&gt;June 2016 - July 2016&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;Mechanic Intern - National Choice Bakery, MN&lt;/strong&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;ul&gt;
+&lt;li&gt;Assisted in prototype machine assembly and modification of a high volume packaging machine. This project involved milling, welding, CAD design modification, and other skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;software-development-competitions&#34;&gt;Software Development Competitions&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;&lt;a href=&#34;https://github.com/theSem/Salad&#34;&gt;Minnehack 2019 - 2nd Place&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;At the 2019 Minnehack 24-hr hackathon I led my team to place second amongst 250 participants. My solution, to better help agricultural communities, was a fully functional SMS messaging system to interact with a database of weather and farming information, to help farmers in rural areas with little to no internet access, better adapt to climate change and extreme weather patterns.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;dl&gt;
+&lt;dt&gt;&lt;a href=&#34;https://github.umn.edu/kelse111/mob&#34;&gt;SDC by ACM UMN 2019&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;At the 2018 ACM-UMN Software Development Competition I took second place by creating a webapp to better help communities communicate and engage in political topics with a fully functional online forum that also easily allowed creation and organization of civil protests and discussion.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Languages&lt;/dt&gt;
+&lt;dd&gt;Python, React, NodeJs, Ruby, HTML, CSS&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;dl&gt;
+&lt;dt&gt;OS / Virtual Machines&lt;/dt&gt;
+&lt;dd&gt;Linux, MacOs, Vagrant, VirtualBox&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;dl&gt;
+&lt;dt&gt;Other&lt;/dt&gt;
+&lt;dd&gt;Git, Bash, Flask, SQLAlchemy&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;learning--development&#34;&gt;Learning &amp;amp; Development&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Machine Learning:&lt;/dt&gt;
+&lt;dd&gt;ML in Python&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;dl&gt;
+&lt;dt&gt;React/Nodejs:&lt;/dt&gt;
+&lt;dd&gt;Full Stack Development in JS&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;undergraduate-coursework&#34;&gt;Undergraduate Coursework&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CSCI 3081W - Program Design and Development&lt;/li&gt;
+&lt;li&gt;CSCI 4271W - Development of Secure Software Systems&lt;/li&gt;
+&lt;li&gt;CSCI 4511W - Intro to Artificial Intelligence&lt;/li&gt;
+&lt;li&gt;CSCI 4061 - Intro to Operating Systems&lt;/li&gt;
+&lt;li&gt;CSCI 4611 - Programming Interactive Computer Graphics&lt;/li&gt;
+&lt;li&gt;CSCI 4041 - Algorithms and Data Structures&lt;/li&gt;
+&lt;li&gt;CSCI 4011 - Formal Languages and Automata Theory&lt;/li&gt;
+&lt;li&gt;CSCI 2021- Machine Architecture and Organization&lt;/li&gt;
+&lt;li&gt;CSCI 2041 - Functional Programming&lt;/li&gt;
+&lt;li&gt;MATH 5248 - Cryptology and Number Theory&lt;/li&gt;
+&lt;li&gt;MATH 4242 - Applied Linear Algebra&lt;/li&gt;
+&lt;li&gt;STAT 3021 - Intro to Probability and Statistics for Engineers&lt;/li&gt;
+&lt;li&gt;MATH 2042 - Differential Equations and Linear Algebra&lt;/li&gt;
+&lt;li&gt;MATH 2263 - Multivariable Calculus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Mixed Martial Arts / Health &amp;amp; Nutrition:&lt;/dt&gt;
+&lt;dd&gt;I train Muay Thai and Brazillian JiuJitsu at The Cellar Gym in combination with general strength training and calisthenics. I find it grounds me via &amp;ldquo;real world&amp;rdquo; challenges that contrast the abstract world of computer science I mainly reside in. I also enjoy the community and meeting people at the gym.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;dl&gt;
+&lt;dt&gt;Dog Training &amp;amp; Care:&lt;/dt&gt;
+&lt;dd&gt;I have a young Blue Heeler (Australian Cattle Dog), Sugar, who also challenges me on daily basis. He requires love, exercise, regiment, and companssionate leadership. Watching how he learns and tackles problems is rewarding and fascinating.&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://www.lukaskf.com/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lukaskf.com/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
