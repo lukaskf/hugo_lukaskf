@@ -41,7 +41,6 @@ disqusShortname = "bento-hugo-theme"
   github = "lukaskf"
   linkedin = "https://www.linkedin.com/in/lukas-kelsey-friedemann-1621a1171/"
   email = "lukaskf@gmail.com"
-  rss = "/feed"
 
   # Avatar (shown in the homepage)
   avatar = "images/avatar1.jpg"
