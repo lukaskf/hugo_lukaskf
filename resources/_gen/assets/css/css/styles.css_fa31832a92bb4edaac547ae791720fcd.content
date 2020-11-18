@@ -1115,6 +1115,11 @@ html {
   padding-bottom: 1.25rem;
 }
 
+.px-5 {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
 .py-7 {
   padding-top: 1.75rem;
   padding-bottom: 1.75rem;
@@ -1373,6 +1378,10 @@ html {
 }
 
 @media (min-width: 768px) {
+
+  .md\:border-b {
+    border-bottom-width: 1px;
+  }
 
   .md\:flex-row {
     flex-direction: row;
