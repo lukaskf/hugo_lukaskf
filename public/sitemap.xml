@@ -8,6 +8,10 @@
   </url>
   
   <url>
+    <loc>https://www.lukaskf.com/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.lukaskf.com/bento-hugo-theme/</loc>
   </url>
   
@@ -16,7 +20,11 @@
   </url>
   
   <url>
-    <loc>https://www.lukaskf.com/</loc>
+    <loc>https://www.lukaskf.com/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lukaskf.com/post/</loc>
   </url>
   
   <url>
