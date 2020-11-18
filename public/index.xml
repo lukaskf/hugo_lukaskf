@@ -138,23 +138,5 @@ Minneapolis, Minnesota&lt;/p&gt;
 </description>
     </item>
     
-    <item>
-      <title>Archives</title>
-      <link>https://www.lukaskf.com/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lukaskf.com/archives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://www.lukaskf.com/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lukaskf.com/post/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

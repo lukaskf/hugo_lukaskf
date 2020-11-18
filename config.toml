@@ -33,9 +33,6 @@ disqusShortname = "bento-hugo-theme"
   headline = "Thinker/Programmer"
   description = "Minneapolis, MN, based software engineer specializing in Python and Full-Stack development."
 
-  # Copyright note in the footer
-  copyright = "Learn more about me at www.lukaskf.com/about"
-
   # Image in the homepage. You can setup a different image for social media
   cover = "images/minneapolis_night.jpg"
   ogImage = "images/og_image.jpg"
@@ -44,6 +41,7 @@ disqusShortname = "bento-hugo-theme"
   github = "lukaskf"
   linkedin = "https://www.linkedin.com/in/lukas-kelsey-friedemann-1621a1171/"
   email = "lukaskf@gmail.com"
+  rss = "/feed"
 
   # Avatar (shown in the homepage)
   avatar = "images/avatar1.jpg"
