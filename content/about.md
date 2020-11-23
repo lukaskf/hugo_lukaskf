@@ -96,6 +96,9 @@ Machine Learning:
 
 ----
 
+Ruby:
+:	WebApp development utilizng Rails Framework (WOAH: Blog post soon to come how this is my Flask replacement moving forward)
+
 React/Nodejs: 
 :	Full Stack Development in JS
 
