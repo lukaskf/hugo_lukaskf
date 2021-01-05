@@ -30,7 +30,7 @@ Sep 2016 - May 2020
 Employment
 ---------------
 
-June 2020 - Present
+June 2020 - December 2020
 :   **Python Automation Engineer - Wells Fargo, MN**
 
     - Working in an Agile environment remotely to build a platform for automating configuration management and delivery of software via Python, Puppet, Bolt, Ruby. Building reporting and metrics tools for the platform via Python, Pandas using the Flask web-framework. Providing support for previous platform usage as well as building documentation and reporting tools. Additionally, changing software development policy and practices amongst the team, pushing for better DevOps practices. Optimizing development environment for team members to ensure efficient, safe, and reliable software development via ephemeral virtual machines and software provisioning.
