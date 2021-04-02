@@ -33,12 +33,13 @@ Employment
 December 2020 - Current
 :   **Full-Stack Software Engineer - Terrier Technologies, MN**
 
-    - Working in small three person development team building and supporting full-stack Ruby on Rails application (RoR, Jquery, Coffeescript, PostgreSQL). Working with clients to make software tools to handle complex business logisistics. Responding to support tickets and fixing bugs via Basecamp. 
+    - Working in small three person development team building and supporting full-stack Ruby on Rails application (RoR, Jquery, Coffeescript, PostgreSQL). Working with clients to make software tools to handle complex business logisistics. Responding to support tickets and fixing bugs via Basecamp. Contributing to open source tools (TinyTemplate, SQLBuilder).
 
 June 2020 - December 2020
 :   **Python Automation Engineer - Wells Fargo, MN**
 
     - Worked in an Agile environment remotely to build a platform for automating configuration management and delivery of software via Python, Puppet, Bolt, Ruby. Built reporting and metrics tools for the platform via Python, Pandas using the Flask web-framework. Provided support for previous platform usage as well as building documentation and reporting tools.Pushed for better devops practices leading to changes in software development policies and practices for my team. Optimized development environment for team members to ensure efficient, safe, and reliable software development via ephemeral virtual machines and software provisioning.
+
 
 January 2020 - December 2020
 :   **Full-Stack Software Engineer - Freelance, Remote**
@@ -47,29 +48,33 @@ January 2020 - December 2020
 
 June 2019 - August 2019
 :   **Software Development Intern - U.S. Bank, MN**
-- Contributed in developing large-scale Java/Angular web-application in an agile team. Back-end design and development: created a validation system for application POJOS, using Spring(Framework), API’s for core bank services, unit testing. Front-end development: created dynamic web-pages to meet standards set by corporate graphic designers and business requirements.
+	
+	- Contributed in developing large-scale Java/Angular web-application in an agile team. Back-end design and development: created a validation system for application POJOS, using Spring(Framework), API’s for core bank services, unit testing. Front-end development: created dynamic web-pages to meet standards set by corporate graphic designers and business requirements.
+	_stack_: ***Java, Spring, Angular***
 
 
 December 2019 - June 2020
 :   **Business Analyst / Operations - Jaxon Grey, MN**
-- Utilizing business experience and knowledge to guide the business strategy and operations at a clothing boutique. Key actions involve running business analytics to guide budgeting, inventory, and purchase orders, as well as providing technological solutions to a variety of business problems that arise in the workplace and working with a point of sale software.
+	
+	- Utilizing business experience and knowledge to guide the business strategy and operations at a clothing boutique. Key actions involve running business analytics to guide budgeting, inventory, and purchase orders, as well as providing technological solutions to a variety of business problems that arise in the workplace and working with a point of sale software.
 
 
 June 2015 - December 2016
 :   **Mechanic Apprentice / Sale Representative - K'UL Chocolate, MN**
-- Assisted in the assembling, adjusting, and designing machinery in a large scale food production environment, aimed towards high automation and large-scale output of artisan chocolate. Executed and maintained sales operations in a store-front.
+	
+	- Assisted in the assembling, adjusting, and designing machinery in a large scale food production environment, aimed towards high automation and large-scale output of artisan chocolate. Executed and maintained sales operations in a store-front.
 
 
 June 2016 - July 2016
 :   **Mechanic Intern - National Choice Bakery, MN**
-- Assisted in prototype machine assembly and modification of a high volume packaging machine. This project involved milling, welding, CAD design modification, and other skills.
+	
+	- Assisted in prototype machine assembly and modification of a high volume packaging machine. This project involved milling, welding, CAD design modification, and other skills.
 
 Software Development Competitions
 -----------------
 
 [Minnehack 2019 - 2nd Place](https://github.com/theSem/Salad)
 :   At the 2019 Minnehack 24-hr hackathon I led my team to place second amongst 250 participants. My solution, to better help agricultural communities, was a fully functional SMS messaging system to interact with a database of weather and farming information, to help farmers in rural areas with little to no internet access, better adapt to climate change and extreme weather patterns.
-
 ----
 
 [SDC by ACM UMN 2019](https://github.umn.edu/kelse111/mob)
