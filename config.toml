@@ -30,8 +30,8 @@ disqusShortname = "bento-hugo-theme"
 [params]
   # Show intro in the home page (with headline and description)
   intro = true
-  headline = "Thinker/Programmer"
-  description = "Minneapolis, MN, based software engineer specializing in Python and Full-Stack development."
+  headline = "Full-Stack Dev"
+  description = "Minneapolis, MN, based full-stack developer with strong Ruby on Rails and Python skills"
 
   # Image in the homepage. You can setup a different image for social media
   cover = "images/minneapolis_night.jpg"
