@@ -30,15 +30,20 @@ Sep 2016 - May 2020
 Employment
 ---------------
 
+December 2020 - Current
+:   **Full-Stack Software Engineer - Terrier Technologies, MN**
+
+    - Working in small three person development team building and supporting full-stack Ruby on Rails application (RoR, Jquery, Coffeescript, PostgreSQL). Working with clients to make software tools to handle complex business logisistics. Responding to support tickets and fixing bugs via Basecamp. 
+
 June 2020 - December 2020
 :   **Python Automation Engineer - Wells Fargo, MN**
 
-    - Working in an Agile environment remotely to build a platform for automating configuration management and delivery of software via Python, Puppet, Bolt, Ruby. Building reporting and metrics tools for the platform via Python, Pandas using the Flask web-framework. Providing support for previous platform usage as well as building documentation and reporting tools. Additionally, changing software development policy and practices amongst the team, pushing for better DevOps practices. Optimizing development environment for team members to ensure efficient, safe, and reliable software development via ephemeral virtual machines and software provisioning.
+    - Worked in an Agile environment remotely to build a platform for automating configuration management and delivery of software via Python, Puppet, Bolt, Ruby. Built reporting and metrics tools for the platform via Python, Pandas using the Flask web-framework. Provided support for previous platform usage as well as building documentation and reporting tools.Pushed for better devops practices leading to changes in software development policies and practices for my team. Optimized development environment for team members to ensure efficient, safe, and reliable software development via ephemeral virtual machines and software provisioning.
 
-January 2020 - Present
+January 2020 - December 2020
 :   **Full-Stack Software Engineer - Freelance, Remote**
 
-	- Executing full-stack web app development utilizing Flask framework for Python. Front-end built to design specifications by UX designer. Implementing secure software design and best security practices, while producing an efficient, lean, modern web-app while providing excellent user experience.
+	- Executed full-stack web app development utilizing Flask framework for Python. Front-end built to design specifications by UX designer. Implemented secure software design and best security practices, while producing an efficient, lean, modern web-app while providing excellent user experience.
 
 June 2019 - August 2019
 :   **Software Development Intern - U.S. Bank, MN**
