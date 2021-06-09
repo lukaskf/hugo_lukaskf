@@ -82,6 +82,11 @@ a {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 
+code {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
+
 /**
  * Add the correct font size in all browsers.
  */
@@ -181,10 +186,6 @@ button:-moz-focusring,
 /**
  * Add the correct vertical alignment in Chrome, Firefox, and Opera.
  */
-
-progress {
-  vertical-align: baseline;
-}
 
 /**
  * Remove the default vertical scrollbar in IE 10+.
@@ -397,6 +398,11 @@ button {
  * 'mono' font family.
  */
 
+
+code {
+  font-family: Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+}
+
 /**
  * Make replaced elements `display: block` by default as that's
  * the behavior you want almost all of the time. Inspired by
@@ -582,6 +588,16 @@ html {
 }
 
 /* TODO: port to Tailwind CSS */
+
+.article code {
+  padding: 1px 3px;
+  font-family: Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+  font-size: 1.125rem;
+  white-space: pre-wrap;
+  border: #E3EDF3 1px solid;
+  background: #F7FAFB;
+  border-radius: 2px;
+}
 
 .dots {
   background-color: transparent;
