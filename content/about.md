@@ -23,12 +23,12 @@ Skills
 ------
 
 Languages
-:   Ruby, Python, Javascript(Coffeescript, JQuery, Vue), HTML, SCSS, SQL
+:   Ruby, Python, Javascript(React, JQuery), HTML, SCSS, SQL
 
 ----- 
 
 Frameworks
-:	Rails, Flask
+:	Rails, Flask, Next.js
 
 ----
 
@@ -38,12 +38,12 @@ Devops
 ----
 
 Databases
-:	PostgreSQL, SqlAlchemy
+:	PostgreSQL, SqlAlchemy, Supabase
 
 Employment
 ---------------
 
-December 2020 - Current
+December 2020 - August 2021
 :   **Lead Developer (Full-Stack) - Terrier Technologies, MN**
 
     The results of my work drove up profitability via designing and developing best in industry features making the Lycensed platform much more robust, feature rich, and marketable to larger corporations. I also onboarded and supported one of the largest pest control companies in the nation onto the Lycensed platform. Within Terrier I increased productivity and application security by enhancing open-source tools used by Terrier, as well as driving up company skill levels by hiring and training new developers and product managers. 
